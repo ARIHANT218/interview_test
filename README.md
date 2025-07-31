@@ -1,4 +1,5 @@
 🛒 Snap Basket - Client
+
 A modern, responsive grocery e-commerce web application built using React and Vite. Snap Basket brings you a seamless online grocery shopping experience with fresh, organic produce and quality groceries — all focused on affordability, speed, and ease of use.
 
 🔗 Live Demo: https://snap-bucket-client.onrender.com
