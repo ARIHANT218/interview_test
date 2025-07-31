@@ -6,6 +6,7 @@ A modern, responsive grocery e-commerce web application built using React and Vi
 
 
 🌟 Features
+
 Modern UI/UX: Clean, responsive design that works smoothly across all devices
 
 Product Catalog: Browse a variety of fresh produce and grocery categories
@@ -23,6 +24,7 @@ Order History: View and track previously placed orders
 Category Browsing: Navigate products by well-organized categories
 
 🛠️ Tech Stack
+
 🔹 Frontend
 React 18 – Modern React with Hooks and functional components
 
@@ -35,6 +37,7 @@ React Router – For seamless client-side navigation
 JavaScript (ES6+) – Leveraging modern JavaScript features
 
 🔸 Backend Integration
+
 JWT Authentication – Token-based user authentication
 
 REST API – Communicates with an Express.js backend
@@ -42,6 +45,7 @@ REST API – Communicates with an Express.js backend
 MongoDB – NoSQL database to manage user, product, and order data
 
 🌐 API Endpoints
+
 This client integrates with an Express.js backend to handle:
 
 ✅ User Authentication & Authorization
@@ -64,6 +68,7 @@ Optimized for all devices and screen sizes:
 💻 Laptops & Tablets
 
 🔐 Authentication
+
 JWT-based secure authentication
 
 Login & registration functionality
